@@ -1,8 +1,4 @@
-provider "aws" {
-  region     = "us-east-1"
-  access_key = "AKIAVN4ZX4MVAQRNHUI3"
-  secret_key = "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"
-}
+
 
 #1 EC2 Instance 
 
